@@ -11,7 +11,7 @@ You can find list of all the topics on [CodeMistic's website](https://codemistic
 
 ***Share your progress on social platform by tagging CodeMistic.
 We would love to reshare your progress on our social media handles.***<br>
-Use &nbsp; **#codemistic &nbsp; #8-weeks-of-python**<br>
+Use &nbsp; **#codemistic &nbsp; #8weeksofpython**<br>
 [Instagram](https://www.instagram.com/codemistic.in/) <br>  [ Twitter](https://www.twitter.com/codemistic/)   <br> [Facebook](https://www.facebook.com/codemistic/)  <br>  [Linkedin](https://www.linkedin.com/company/codemistic/)<br><br>
 **Happy Coding!**<br>
 ***www.codemistic.in***
