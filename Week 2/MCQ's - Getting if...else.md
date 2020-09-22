@@ -12,7 +12,7 @@ else:
     print("0 is falsy!")
 </code></pre>
     
--  A. huh?
--  B. 0 is falsy!
--  C. Syntax Error
--  D. "huh?"
+A. huh?
+B. 0 is falsy!
+C. Syntax Error
+D. "huh?"
